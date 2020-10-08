@@ -1,20 +1,18 @@
-# (TODO: your game's title)
+# Escape Death
 
-Author: (TODO: your name)
+Author: Pablo Wilson
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: Nothing, sorry. This past week has been incredbily stressful with exams, coding challenges, and interviews, so I was not able to find the proper amount of time this needed. I wanted it to be a fully text escape room where you had to explore your options to find clues to escape, but a wrong answer would lead to death (restart). The plan was to have a simple save file so you could track multiple clues over the course of runs, rogue-like style, so you would need to die a couple times before you could win.
 
-Text Drawing: (TODO: how does the text drawing in this game work? Is text precomputed? Rendered at runtime? What files or utilities are involved?)
+Text Drawing: none sorry:/
 
 Screen Shot:
 
 ![Screen Shot](screenshot.png)
 
-How To Play:
+How To Play: 
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: 
 
 This game was built with [NEST](NEST.md).
 
